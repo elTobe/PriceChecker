@@ -30,6 +30,10 @@ Una vez instalado y configurado, ejecuta `PriceChecker.exe` para abrir la aplica
 
 Las contribuciones son bienvenidas. Si deseas mejorar o agregar características a PriceChecker, siéntete libre de hacer un fork del repositorio y enviar un pull request con tus cambios.
 
+## Contacto y Dudas
+
+Si tienes alguna pregunta o duda sobre SimpleCashier, no dudes en ponerte en contacto enviando un correo electrónico a perrusquia832@gmail.com.
+
 ## Licencia
 
 Este proyecto está bajo la Licencia MIT.
