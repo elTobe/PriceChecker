@@ -2,7 +2,7 @@
 
 ![PriceChecker](doc/img/screenshot1.PNG)
 
-PriceChecker es una aplicación desarrollada en Qt 5.15.2 que funciona como un checador de precios para negocios que utilizan SICAR Punto de Venta. La aplicación permite mostrar la existencia, imagen, localización y hasta tres precios de mayoreo de los productos disponibles.
+PriceChecker es una aplicación desarrollada en Qt 5.15.2 que funciona como un checador de precios para negocios que utilizan SICAR Punto de Venta. La aplicación permite mostrar la existencia, imagen, localización y hasta tres precios de mayoreo de los productos disponibles. Este proyecto puede servir como base para suplir carencias del checador de productos de SICAR.
 
 ## Requisitos
 
@@ -31,4 +31,4 @@ Las contribuciones son bienvenidas. Si deseas mejorar o agregar características
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
+Este proyecto está bajo la Licencia MIT.
