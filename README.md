@@ -23,10 +23,7 @@ PriceChecker es una aplicación desarrollada en Qt 5.15.2 que funciona como un c
 
 ## Uso
 
-Una vez instalado y configurado, ejecuta `PriceChecker.exe` para abrir la aplicación. La interfaz te permitirá realizar las siguientes acciones:
-
-- Mostrar la existencia, imagen, localización y hasta tres precios de mayoreo de los productos disponibles.
-- Interactuar con la base de datos de SICAR Punto de Venta para obtener información actualizada de los productos.
+Una vez instalado y configurado, ejecuta `PriceChecker.exe` para abrir la aplicación.
 
 ## Contribuciones
 
